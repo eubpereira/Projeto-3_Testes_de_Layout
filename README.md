@@ -1,1 +1,2 @@
-# Projeto-3_Testes_de_Layout
+# Projeto 3
+Projeto voltado para o entendimento de testes de Layout em um aplicativo de Táxi.
