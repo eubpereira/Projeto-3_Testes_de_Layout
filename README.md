@@ -8,6 +8,4 @@ Depuração de Layout em um aplicativo de chamar um táxi, utilizando o Figma e 
 
 ## 🛠️ Construído com
 
-Google Sheets
-Jira
-Figma
+Google Sheets | Jira | Figma
